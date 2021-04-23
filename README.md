@@ -1,7 +1,7 @@
 # Timeout-Popup
 Make a Time Out Popup using Jquery
 
-######Include Bootstrap CSS library  in the header:
+###### Include Bootstrap CSS library  in the header:
 
 ```
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -15,7 +15,7 @@ Make a Time Out Popup using Jquery
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
 ```
 
-######Now Add Bootstrap Modal in The Body:
+###### Now Add Bootstrap Modal in The Body:
 
 ```
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
@@ -39,7 +39,7 @@ Make a Time Out Popup using Jquery
 </div>
 ```
 
-######Here is the main part add Jquery For timeout popup:
+###### Here is the main part add Jquery For timeout popup:
 
 ```
 <script>
@@ -59,4 +59,4 @@ Make a Time Out Popup using Jquery
 </script>
 ```
 
-Codepen link : https://codepen.io/saif175/pen/PoWXVaX
+###### Codepen link : https://codepen.io/saif175/pen/PoWXVaX
